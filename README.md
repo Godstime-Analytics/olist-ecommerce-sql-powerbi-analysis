@@ -84,7 +84,7 @@ The Power BI dashboard provides an interactive view of:
 - Customer and product performance
 - Regional sales distribution
 
-![Dashboard Preview](images/08_dashboard_monthly_trend.png)
+![Dashboard Preview](images/08_dashboard_monthly_trend.PNG)
 
 📌 Additional visuals and SQL analysis outputs are available in the `/images` folder.
 
