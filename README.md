@@ -86,7 +86,7 @@ The Power BI dashboard provides an interactive view of:
 
 ![Dashboard Preview](Images/07_dashboard_overview.PNG)
 
-📌 Additional visuals and SQL analysis outputs are available in the `/Images` folder.
+📌 Additional visuals and SQL analysis outputs are available in the [images folder](./Images).
 
 ---
 
